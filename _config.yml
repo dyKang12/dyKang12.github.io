@@ -159,7 +159,7 @@ defaults:
   home:
     heading: "홈페이지 heading"
     subheading: "----------subheading---------"
-#    banner: "Your image url"
+#    banner: "/assets/shutterstock_1724964856.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -181,7 +181,7 @@ defaults:
 # excerpt_size: 350
 
 # Pagination setting
-# paginate: 5
+paginate: 5
 
 # Disqus comments
 # disqus:
