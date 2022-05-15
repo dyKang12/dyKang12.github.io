@@ -159,7 +159,7 @@ defaults:
   home:
     heading: "홈페이지 heading"
     subheading: "----------subheading---------"
-#    banner: "/assets/shutterstock_1724964856.jpg"
+    banner: "/assets/banner_temp.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
